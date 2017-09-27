@@ -1,27 +1,14 @@
 {
   "name": "Cloudflare-scraper",
   "version": "1.0.0",
-  "description": "Scraps pages over cloudflare protection",
+  "description": "Scrapes pages over cloudflare protection",
   "author": {
-    "name": "GazZy",
-    "email": "gagizagi@gmail.com",
-    "url": "gazzy.space"
-  },
-  "homepage": "http://www.openshift.com/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/openshift/origin-server"
-  },
-  "engines": {
-    "node": ">= 0.6.0",
-    "npm": ">= 1.0.0"
+    "name": "Gašper Žagar",
+    "email": "gagizagi@gmail.com"
   },
   "dependencies": {
     "cloudscraper": "^1.2.2",
     "express": "^4.13.4"
   },
-  "devDependencies": {},
-  "bundleDependencies": [],
-  "private": true,
   "main": "server.js"
 }
